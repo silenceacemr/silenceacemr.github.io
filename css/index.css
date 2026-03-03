@@ -694,7 +694,7 @@ background-color: rgba(255,255,255,.4);
 }
 
 #footer .footer-up .footer-up-right{
-    width: 1090px;
+    width: 1000px;
     height: 350px;
     /* background-color: #46e41a; */
     float: right;
@@ -904,3 +904,4 @@ background-color: rgba(255,255,255,.4);
     background-color: #996633;
     text-align: center;
 }
+
